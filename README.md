@@ -84,6 +84,10 @@ The model is based on transfer learning using VGG16:
 ## Observations
 - The model shows strong performance in distinguishing glaucoma cases.
 - ROC-AUC indicates good separability between classes.
+
+- ## Contribution
+This project was developed as part of a group effort.  
+My contribution focused on model implementation, training, and evaluation using VGG16.
 - Slight imbalance in recall between classes suggests room for improvement.
 - Transfer learning significantly improved convergence speed.
 
